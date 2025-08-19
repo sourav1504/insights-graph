@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/insights-graph/static/css/main.104c2bff.css",
+    "main.js": "/insights-graph/static/js/main.7ee267af.js",
+    "static/js/453.8eb43e92.chunk.js": "/insights-graph/static/js/453.8eb43e92.chunk.js",
+    "index.html": "/insights-graph/index.html",
+    "main.104c2bff.css.map": "/insights-graph/static/css/main.104c2bff.css.map",
+    "main.7ee267af.js.map": "/insights-graph/static/js/main.7ee267af.js.map",
+    "453.8eb43e92.chunk.js.map": "/insights-graph/static/js/453.8eb43e92.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.104c2bff.css",
+    "static/js/main.7ee267af.js"
+  ]
+}
